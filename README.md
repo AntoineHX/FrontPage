@@ -5,6 +5,9 @@ Meta-package referencing all applications and modules of Functionally Accurate R
 
 _ISIR - EU FAROS Project_
 
+#### [OrocoROS2](https://github.com/AntoineHX/orocoros2)
+Example of the capabilities of Orocos 2.9 and ROS2.
+
 ### [Multi-motor controller](https://forgejo.geeks.sexy/AntoineH/multi-motors-controller)
 Aisprid implementation challenge in Go.
 
