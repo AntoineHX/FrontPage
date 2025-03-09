@@ -44,9 +44,15 @@ _Research project w/ Marco Pedersoli_
 ## Game Developpement
 ### [Double Invader](https://forgejo.geeks.sexy/AntoineH/Double_Invader)
 Solo project w/ Godot.
+
+### [Black Hole Explorer](https://forgejo.geeks.sexy/AntoineH/Black_Hole_Explorer)
+Solo project w/ Godot.
+
 ### [Open Guys](https://forgejo.geeks.sexy/Geeks/open-guys)
-Team project / Godot.
+Team project w/ Godot.
+
 ### [Projet Patate](https://forgejo.geeks.sexy/AntoineH/ProjetPatate)
 Team project w/ Unity.
+
 ### [Nidrobb](https://forgejo.geeks.sexy/AntoineH/Nidrobb)
 School project w/ C++ & SDL2.
