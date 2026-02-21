@@ -42,6 +42,9 @@ Stochastic pooling layer for regularisation.
 _Research project w/ Marco Pedersoli_
 
 ## Game Developpement
+### [Journey](https://forgejo.geeks.sexy/Geeks/journey)
+Team project w/ Godot for Godot wild jam 90.
+
 ### [Double Invader](https://forgejo.geeks.sexy/AntoineH/Double_Invader)
 Solo project w/ Godot.
 
